@@ -1,12 +1,3 @@
 <? 
 echo "hello mu " ; 
-
-hhhgjf;
-
-
-
-
-
-
-
 >
