@@ -1,1 +1,3 @@
-jjjjjjj
+<? 
+echo "hello mu " ; 
+>
